@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import useThemeContext from "../hooks/themeContext"
 import MastHead from '../components/mastHead'
 import Projects from '../components/projects'
-import Interests from '../components/interests'
+import Skillset from '../components/Skillset'
 import Thoughts from '../components/thoughts'
 import SEO from '../components/seo'
 import useSiteMetadata from '../hooks/siteMetaData'
@@ -22,7 +22,7 @@ function IndexPage() {
           <Projects />
         </div>
         <div className="my-6">
-          <Interests />
+          <Skillset />
         </div>
         <div className="my-6">
           <Thoughts />
@@ -35,7 +35,7 @@ function IndexPage() {
         <div className="col-md-7 col-lg-8 col-xl-9 px-4 py-6 px-lg-7 border-top border-md-top-0" style={{ backgroundColor: style === 'dark' ? "#2f363d" : "#fafbfc" }}>
           <div className="mx-auto" style={{ maxWidth: '900px' }}>
             <Projects />
-            <Interests />
+            <Skillset />
             <Thoughts />
           </div>
         </div>
