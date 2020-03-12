@@ -2,15 +2,16 @@
   "name": "gatsby-github-personal-website",
   "private": false,
   "description": "Repo for github portfolio using gatsby",
-  "homepage": "https://github.com/thakkaryash94/gatsby-github-personal-website",
+  "homepage": "http://runnincode.com/scotts-portfolio/",
   "version": "1.0.0",
-  "author": "Yash Thakkar <thakkaryash94@gmail.com>",
+  "author": "Scott Cook <smcrunner88@gmail.com>",
   "dependencies": {
     "@primer/components": "^15.0.1",
     "@primer/octicons-react": "^9.2.0",
     "babel-plugin-styled-components": "^1.10.6",
     "dotenv-webpack": "^1.7.0",
     "gatsby": "^2.17.10",
+    "gatsby-cli": "^2.10.9",
     "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-sass": "^2.1.20",
     "gatsby-plugin-styled-components": "^3.1.11",
@@ -47,9 +48,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thakkaryash94/gatsby-github-personal-website"
+    "url": "https://github.com/smcrunner88/scotts-portfolio"
   },
   "bugs": {
-    "url": "https://github.com/thakkaryash94/gatsby-github-personal-website/issues"
+    "url": "https://github.com/smcrunner88/scotts-portfolio/issues"
   }
 }
