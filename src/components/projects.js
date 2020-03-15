@@ -40,7 +40,7 @@ function Projects() {
   )
   return (
     <>
-      <h2 className={style === "dark" ? "text-white" : ""}>My Projects</h2>
+      <h2 className={style === "dark" ? "text-white" : ""}>Projects</h2>
       <p className={`f4 mb-4 ${style === "dark" ? "text-white" : "text-gray"}`}>
         GitHub repositories that I've built.
       </p>

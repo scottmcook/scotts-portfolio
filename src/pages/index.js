@@ -49,7 +49,7 @@ function IndexPage() {
             <div className="mx-auto" style={{ maxWidth: "900px" }}>
               <Projects />
               <Skillset />
-              <Thoughts />
+              {/* <Thoughts /> */}
             </div>
           </div>
         </div>
