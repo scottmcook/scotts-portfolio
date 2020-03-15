@@ -82,7 +82,7 @@ export default ({ metaData }) => {
     bio,
     login,
     email,
-    organizations,
+    // organizations,
     avatarUrl,
     isHireable,
     name,
@@ -241,7 +241,7 @@ export default ({ metaData }) => {
           </BorderBox>
         )}
         <StyledHr color={style} />
-        <Box mb={1}>
+        {/* <Box mb={1}>
           <Heading mb={2} fontSize={4} color={style === "dark" && "white"}>
             Organizations
           </Heading>
@@ -255,7 +255,7 @@ export default ({ metaData }) => {
                 <Avatar size={35} mr={2} src={avatarUrl} />
               </PrimerLink>
             ))}
-        </Box>
+        </Box> */}
         <Box mt={16}>
           <Toggle
             defaultChecked={style === "dark"}
