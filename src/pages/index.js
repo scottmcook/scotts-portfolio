@@ -6,7 +6,7 @@ import useThemeContext from "../hooks/themeContext"
 import MastHead from "../components/mastHead"
 import Projects from "../components/projects"
 import Skillset from "../components/Skillset"
-// import Thoughts from "../components/thoughts"
+import Thoughts from "../components/thoughts"
 import SEO from "../components/seo"
 import useSiteMetadata from "../hooks/siteMetaData"
 
@@ -25,9 +25,9 @@ function IndexPage() {
           <div className="my-6">
             <Skillset />
           </div>
-          {/* <div className="my-6">
+          <div className="my-6">
             <Thoughts />
-          </div> */}
+          </div>
         </div>
       ) : (
         <div className={`d-md-flex ${style !== "dark" && "border-md-bottom"}`}>
@@ -49,7 +49,7 @@ function IndexPage() {
             <div className="mx-auto" style={{ maxWidth: "900px" }}>
               <Projects />
               <Skillset />
-              {/* <Thoughts /> */}
+              <Thoughts />
             </div>
           </div>
         </div>
