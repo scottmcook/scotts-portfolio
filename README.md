@@ -45,7 +45,7 @@ Since the last time I updated my portfolio, Github's Type A IP addresses had bee
 
 ## Customization
 
-There wasn't too much to customize. I picked this theme for its simplicity. Regardless, I updated the font to an open source that was a frequently used in a design system my team developed at my last job. I also set the default 
+There wasn't too much to customize. I picked this theme for its simplicity. Regardless, I updated the font to one of my favorite open source Google Fonts.
 
 #### In progress: 
 
