@@ -27,7 +27,7 @@ export default () => {
   const topics = edges[0].node.topics
   return (
     <>
-      <h2 className={style === "dark" ? "text-white" : ""}>Skillset</h2>
+      <h2 className={style === "dark" ? "text-white" : ""}>Tool Box</h2>
       <p className={`f4 mb-4 ${style === "dark" ? "text-white" : "text-gray"}`}>
         Always adding, always learning
       </p>
