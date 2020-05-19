@@ -4,7 +4,7 @@
   "description": "Repo for github portfolio using gatsby",
   "homepage": "https://runnincode.com/",
   "version": "1.0.0",
-  "author": "Scott Cook <smcrunner88@gmail.com>",
+  "author": "Scott Cook <scott.madison.cook@gmail.com>",
   "dependencies": {
     "@primer/components": "^15.0.1",
     "@primer/octicons-react": "^9.2.0",
